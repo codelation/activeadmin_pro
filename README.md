@@ -1,5 +1,3 @@
-# Active Admin Pro
+This is not the repo you are looking for...
 
-A collection of styles and scripts that make Active Admin better.
-
-**NOT PRODUCTION READY... YET**
+<https://github.com/codelation/active_admin_pro>
